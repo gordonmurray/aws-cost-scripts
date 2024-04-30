@@ -1,2 +1,3 @@
-# aws-cost-scripts
-Some useful scripts for reviewing AWS costs
+# Some scripts to help see and manage AWS costs
+
+Helpful for listing resources across multiple regions
